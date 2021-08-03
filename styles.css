@@ -1,4 +1,25 @@
 
+.grid{
+    display: grid;
+    grid-template-columns: 200px 1fr 200px;
+    grid-template-rows: auto 1fr auto;
+    gap: 5px
+    height 90vh
+}
+
+header, footer{
+  grid-column: 1/4;
+  text-align: center;
+}
+
+header, article, aside, footer{
+    border-style: solid;
+    background: #055337;
+    font-size: 1.5em;
+    color: #f2f2f2;
+
+}
+
 .list {
     font-family: "cursive", "Lucida Handwriting";
 
