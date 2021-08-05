@@ -26,6 +26,11 @@ header, article, aside, footer{
 
 }
 
+.mainpic{
+  width: 50%;
+  height: auto;  
+}
+
 .topnav {
     background-color: #333;
     overflow: hidden;
