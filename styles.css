@@ -29,6 +29,13 @@ header, article, aside, footer{
 .mainpic{
   width: 50%;
   height: auto;  
+
+}
+
+.center{
+display: block;
+margin-left: auto;
+margin-right: auto;
 }
 
 .topnav {
