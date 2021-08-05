@@ -29,7 +29,7 @@ header, article, aside, footer{
 .mainpic{
   width: 70%;
   height: auto;
-  align-self: center;  
+  margin-left: 5px;  
 
 }
 
