@@ -20,8 +20,14 @@ header, article, aside, footer{
 
 }
 
+.two{
+  background-color: #333;
+  color: white;
+  
+  }
 .list {
     font-family: "cursive", "Lucida Handwriting";
+    color: white;
 
 
 }
