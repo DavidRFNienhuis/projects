@@ -21,8 +21,8 @@ header, article, aside, footer{
 }
 
 .two{
-  background-color: #333;
-  color: white;
+  background-color: white;
+  color: black;
   
   }
 .list {
@@ -39,6 +39,9 @@ header, article, aside, footer{
 
 }
 
+a{
+  color: #000;
+}
 
 .topnav {
     background-color: #333;
