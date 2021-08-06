@@ -26,8 +26,9 @@ header, article, aside, footer{
   
   }
 .list {
-    font-family: "cursive", "Lucida Handwriting";
-    color: white;
+    font-family: "Courier New, monospace";
+    color: black;
+    font-size: medium;
 
 
 }
