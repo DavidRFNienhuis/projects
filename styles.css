@@ -41,13 +41,13 @@ header, article, aside, footer{
 }
 
 a{
-  color: #055337;
+  color: #8a3ed1;
 }
 a:link {
   text-decoration: none;
 }
 a:hover {
-  color: #8a3ed1;
+  color: #20d30f;
 }
 
 .topnav {
